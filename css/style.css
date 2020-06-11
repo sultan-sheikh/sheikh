@@ -1,0 +1,241 @@
+body{
+	margin:0;
+	padding:0;
+	font-family:sans-serif;
+}
+img{
+	max-width:100%;
+}
+
+.container{
+	max-width:1250px;
+	margin:0 auto;
+}
+
+.color5 {
+    background: dodgerblue;
+}
+
+.google{
+	margin-top:0;
+}
+
+.header{
+	background: dodgerblue;
+	margin:0;
+	overflow:hidden;
+	padding:30px 0;
+}
+
+.header ul{
+ 	margin:0;
+ 	list-style:none;
+}
+
+.header ul li{
+	width:141px;
+	overflow:hidden;
+	padding:0 26px;
+	float:left;
+}
+
+.header ul li:first-child{
+	padding-left:65px;
+}
+
+.header ul li a{
+	text-decoration: none;
+	color:black;
+	text-transform: uppercase;
+	color:white;
+	font-weight: bold;
+	transition:.5s ease;
+}
+
+.header ul li a:hover{
+	color:tomato;
+}
+
+.logo {
+    width: 180px;
+    height: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+.firstp{
+	font-size:27px;
+	text-align:center;
+	width:510px;
+	margin:0 auto;
+	font-weight: bold;
+	line-height:1.4;
+}
+.firstp p{
+	margin:0;
+	margin: 30px;
+}
+
+.color1{
+color:dodgerblue;
+}
+
+.color2{
+color:red;
+}
+
+.color3{
+color:green;
+}
+
+.color4{
+color:orange;
+}
+
+
+.img img{
+	margin-top:40px;
+	margin-bottom:20px;
+	opacity:1;
+	transition: .4s ease;
+}
+
+
+.img img:hover{
+opacity:.8;
+}
+
+
+.secondp{
+	font-size:50px;
+	width:300px;
+	color:#333;
+}
+
+.secondp p{
+	margin:0;
+	margin-top: 40px;
+}
+
+.thirdp{
+	font-size: 20px;
+	text-align:justify;
+}
+
+.thirdp p {
+    margin: 60px 0;
+}
+
+.footer{
+
+	font-size:40px;
+	color:#fff;
+	text-align:center;
+	width:480px;
+	margin:auto;
+	margin-bottom: 50px;
+}
+
+.footer p{
+padding:170px 0;
+}
+
+
+.last-footer{
+	text-align:center;
+	overflow:hidden;
+}
+
+.last-footer h3{
+	font-size:30px;
+	margin:0;
+	width:200px;
+	margin:auto;
+	text-transform: uppercase;
+	color:orange;
+}
+
+.img_first{
+	margin-right:10px;
+}
+
+.last_img {
+    float: left;
+    overflow: hidden;
+    width: 620px;
+    margin-top:50px;
+    margin-bottom: 50px;
+    border-radius:10px;
+    opacity:1;
+    transition:.4s ease;
+
+}
+
+.last_img:hover{
+	opacity:.8;
+}
+
+
+/*copyright section start*/
+.copyright{
+
+}
+
+
+.copybg{
+background:dodgerblue;
+overflow:hidden;
+margin-bottom:50px;
+
+}
+
+.right{
+	width: 370px;
+	padding:50px 0;
+}
+
+.right1 {
+float:left;
+margin-left:130px;
+
+}
+
+.right2{
+float:left;
+overflow:hidden;
+}
+
+.right3{
+float:left;
+overflow:hidden;
+}
+
+.right h2{
+	margin-left:38px;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+
+.right ul{
+  	list-style:none;
+}
+
+.right ul li{
+
+}
+
+.right ul li a{
+	text-decoration: none;
+	color:white;
+	transition: .5s ease;
+}
+.right ul li a:hover{
+	color:tomato;
+}
+/*copyright section end*/
+
+
